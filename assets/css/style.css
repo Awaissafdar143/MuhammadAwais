@@ -1,32 +1,3 @@
-/*------------------------------------------------------------------
-  Project: Resume
-  Author: The_Krishna
-  Last change: 01/06/2024
-  Primary use:
------------------------------------------------------------------- */
-/*-----------------------[Table of contents]------------------------
-1.Default CSS
-2.Page Loader CSS
-3.Side Menu CSS
-4.CV Dowload Button CSS
-5.Main Containe and section One CSS
-6.Brand Marquee Section CSS
-7.About Section CSS
-8.Education-Experience CSS
-9.coding-skill-section CSS
-10.design-skill-section CSS
-11.Award-section CSS
-12.Services-section CSS
-13.Porfoilo-section CSS
-14.Porfoilo-section containe pop up CSS
-15.Gallery CSS
-16.Pricing Section CSS
-17.Testimonials Section CSS
-18.Section Blog CSS
-19.Contact Section CSS
-20.Whole Page Aniamtion CSS
------------------------------------------------------------------- */
-/*-----------------------[ 1.Default CSS ]------------------------*/
 * {
     margin: 0;
     padding: 0;
@@ -264,7 +235,7 @@ h1 span {
     transition: all 0.3s;
 }
 .profile-media-icons:hover {
-    background: #FF759C;
+    background: #86FF5C;
 }
 .menu-list-main ul li {
     padding: 10px 20px;
@@ -307,7 +278,7 @@ h1 span {
     transition: .5s;
 }
 .btn-slide:hover {
-    background-color: #FF759C;
+    background-color: #86FF5C;
 }
 .btn-slide:hover span.circle {
     left: 100%;
@@ -315,7 +286,7 @@ h1 span {
     background-color: #fdfdfd;
 }
 .btn-slide:hover span.circle .download-svg {
-    fill: #FF759C;
+    fill: #86FF5C;
 }
 .btn-slide:hover span.title {
     left: 40px;
@@ -327,7 +298,7 @@ h1 span {
 }
 .btn-slide span.circle {
     display: block;
-    background-color: #FF759C;
+    background-color: #86FF5C;
     position: absolute;
     margin: 5px;
     line-height: 42px;
@@ -378,7 +349,7 @@ h1 span {
 }
 .jessica-main-text {
     color: var(--1, #FFF);
-    font-size: 96px;
+    font-size: 78px;
     font-weight: 700;
     line-height: 120px;
 }
@@ -386,7 +357,7 @@ h1 span {
     font-weight: 400;
 }
 .back-End-dev {
-    color: var(--7, #FF759C);
+    color: var(--7, #86FF5C);
     font-size: 24px;
     font-weight: 500;
     line-height: 36px;
@@ -438,7 +409,7 @@ h1 span {
     height: 100%;
     top: -100%;
     left: 0;
-    background: #FF759C;
+    background: #86FF5C;
     z-index: -1;
     transition: all .35s;
 }
@@ -675,7 +646,7 @@ h1 span {
     width: 10px;
     height: 10px;
     border-radius: 100%;
-    background-color: #FF759C;
+    background-color: #86FF5C;
 }
 .bachelor {
     color: #FFF;
@@ -687,7 +658,7 @@ h1 span {
     transition: all 0.3s;
 }
 .education:hover .bachelor {
-    color: #FF759C;
+    color: #86FF5C;
 }
 .university {
     padding-bottom: 15px;
@@ -937,7 +908,7 @@ h1 span {
     width: 83px;
     height: 83px;
     border-radius: 50%;
-    background: #FF759C;
+    background: #86FF5C;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -975,7 +946,7 @@ h1 span {
     border-bottom: 2px solid transparent;
 }
 .services-column:hover .services-text {
-    color: #FF759C;
+    color: #86FF5C;
 }
 .services-column:hover .services-text2 {
     color: #00CC97;
@@ -1030,7 +1001,7 @@ h1 span {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #ff759ccc;
+    background: #86FF5Ccc;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -1250,7 +1221,7 @@ h1 span {
 }
 .basic-plain-box {
     padding: 20px;
-    background: #FF759C;
+    background: #86FF5C;
     text-align: center;
     max-width: 230px;
     width: 100%;
@@ -1339,7 +1310,7 @@ h1 span {
 .colan-icon-img-main {
     width: 64px;
     height: 64px;
-    background: #FF759C;
+    background: #86FF5C;
     border-radius: 50%;
     display: flex;
     align-items: center;
