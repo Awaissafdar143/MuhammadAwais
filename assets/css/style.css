@@ -452,7 +452,7 @@ h1 span {
     width: 100%;
     max-width: 330px;
     position: absolute;
-    bottom: 0;
+    bottom: 230px;
     left: 50%;
     transform: translate(-50%, 50%);
 }
